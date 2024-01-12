@@ -1,0 +1,60 @@
+@media only screen and (min-width: 1001px) {
+	.above-fold {
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+	}
+
+	.below-fold {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
+@media only screen and (max-width: 1000px) {
+	.above-fold {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+	}
+
+	.below-fold {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr);
+		padding: 0px;
+	}
+}
+
+.above-fold a figure img {
+	width:100%;
+	border-radius:10px
+}
+
+.above-fold a figure figcaption {
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1em;
+	font-size: 24px;
+	text-decoration: none; 
+}
+
+.below-fold a figure img {
+	width:100%;
+	border-radius:10px
+}
+
+.below-fold a figure figcaption {
+	font-weight: bold;
+	text-align: center;
+	padding-top: 1em;
+	font-size: 24px;
+	text-decoration: none; 
+}
+
+.below-fold a {
+	color: black;
+	text-decoration: none;
+}
+
+.above-fold a {
+	color: black;
+	text-decoration: none;
+}
