@@ -1,22 +1,22 @@
-.index-page @media only screen and (min-width: 1001px) {
-	.above-fold {
+@media only screen and (min-width: 1001px) {
+	.index-page .above-fold {
 		display: grid;
 		grid-template-columns: repeat(2, 1fr);
 	}
 
-	.below-fold {
+	.index-page .below-fold {
 		display: grid;
 		grid-template-columns: repeat(4, 1fr);
 	}
 }
 
 .index-page @media only screen and (max-width: 1000px) {
-	.above-fold {
+	.index-page .above-fold {
 		display: grid;
 		grid-template-columns: repeat(1, 1fr);
 	}
 
-	.below-fold {
+	.index-page .below-fold {
 		display: grid;
 		grid-template-columns: repeat(1, 1fr);
 		padding: 0px;
