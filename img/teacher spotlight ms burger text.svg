@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 300 200"
+   width="600"
+   height="400"
+   version="1.1"
+   id="svg15569"
+   sodipodi:docname="teacher spotlight ms burger text.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs15573" />
+  <sodipodi:namedview
+     id="namedview15571"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.84540194"
+     inkscape:cx="210.55074"
+     inkscape:cy="156.13875"
+     inkscape:window-width="1440"
+     inkscape:window-height="900"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg15569" />
+  <title
+     id="title15561">example image</title>
+  <style
+     type="text/css"
+     id="style15563">
+    rect {fill: gray; stroke: none;}
+    text {fill: white; stroke: none;
+          font-family: Liberation Sans;
+          font-size: 32pt;
+          text-anchor: middle;}
+  </style>
+  <rect
+     width="300"
+     height="200"
+     id="rect15565"
+     style="fill:#55ddff" />
+  <metadata
+     id="metadata15575">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>example image</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.8655px;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';text-align:center;text-anchor:middle;fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:5.22479;stroke-linecap:round;stroke-linejoin:round"
+     x="149.33278"
+     y="89.87088"
+     id="text15748"><tspan
+       sodipodi:role="line"
+       id="tspan15746"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';fill:#ffffff;stroke:none;stroke-width:5.22479"
+       x="149.33278"
+       y="89.87088">Teacher Spotlight</tspan><tspan
+       sodipodi:role="line"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Atkinson Hyperlegible';-inkscape-font-specification:'Atkinson Hyperlegible';fill:#ffffff;stroke:none;stroke-width:5.22479"
+       x="149.33278"
+       y="124.70279"
+       id="tspan17234">Ms. Burger - Science</tspan></text>
+</svg>
